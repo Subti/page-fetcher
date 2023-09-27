@@ -1,5 +1,4 @@
 const fs = require('fs');
-const readline = require('readline');
 const request = require('request');
 
 const url = process.argv[2];
